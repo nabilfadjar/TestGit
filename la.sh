@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Display Load Average...!"
+echo "Display Load Average...! And it didn't"
